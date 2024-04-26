@@ -1,0 +1,32 @@
+﻿* {
+    margin: 0
+}
+
+.about {
+    display: flex;
+    flex-direction: row;
+    max-width: 1000px;
+    align-items: flex-start;
+    margin-bottom: auto;
+}
+.about h1{
+    color:white;
+    margin-bottom:15px;
+}
+    .about p {
+        color: white;
+        font-size: 25px;
+        text-align: justify;
+        margin-bottom: 30px;
+    }
+    .about div {
+        color: white;
+        padding-left: 80px;
+    }
+    .about img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 419px;
+        height: 425px;
+    }
